@@ -45,7 +45,7 @@ To design and implement an Oracle database system using PL/SQL and Oracle APEX t
 | Institution | National Institute of Statistics of Rwanda (NISR) |
 | Geographic coverage | Rwanda — all 30 districts |
 | Agricultural periods | Seasons A, B and C |
-| Source link | [NISR Seasonal Agricultural Survey 2025 Report](https://statistics.gov.rw/sites/default/files/documents/2025-12/SAS%202025%20Final%20report.pdf) |
+| Source link | [NISR Seasonal Agricultural Survey 2025 Report](https://www.statistics.gov.rw/print/pdf/node/793) |
 | Data type | Agricultural survey statistics and production information |
 | Planned use | Crop production, cultivated area, yields and agricultural input analysis |
 
